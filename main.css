@@ -1,0 +1,15 @@
+body {background-color: bisque;}
+
+h1 {text-align: center;
+color: blueviolet;
+text-decoration: underline;}
+
+.purple {color: rgb(122, 43, 172);
+    font-size: 24px;
+}
+
+.black {color: black;
+font-size: 24px;}
+
+.blue {color: blue;
+font-size: 24px;}
