@@ -17,9 +17,11 @@ font-size: 18px;}
 
 h1, p {text-align: center;}
 
-.center {  display: block;
+.img {  display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0%;
+    border: 0cap;
     width: 50%}
 
 #copy {font-size: 14px;}
